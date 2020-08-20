@@ -1,0 +1,12 @@
+[
+    {
+        "FirstName": "Max",
+        "LastName": "Mustermann",
+        "Email": "max.mustermann@about-azure.com"
+    },
+    {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Email": "john.doe@about-azure.com"
+    }
+]
